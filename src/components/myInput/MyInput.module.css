@@ -1,0 +1,12 @@
+.myInput{
+    width: 525px;
+    height: 67px;
+    padding: 5px 15px;
+    margin: 5px 0;
+    border: 1px solid teal;
+    display:flex ;
+    justify-content: space-between;
+    text-align: center;
+    align-items: center;
+
+}
